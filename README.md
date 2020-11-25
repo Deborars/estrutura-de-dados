@@ -29,3 +29,10 @@ __Vetores e Matrizes__:  São chamados também de arrays. O array é uma estrutu
 
 __Registro__: É uma estrutura que fornece um formato especializado para armazenar informações em mémoria. Um registro é composto por campos que especificam cada uma das informações que o compõem.
 
+__Listas__: Armazena dados de um determinado tipo em uma ordem especifica.
+A diferença entre listas e arrays é que as listas possuem um tamanho ajustável, enquanto arrays possuem tamanho fixo.
+
+Existem dois tipos de listas:
+- Ligadas: neste tipo existem nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele: por isso ela é chamada de 'lista ligada', pois os nós são amarrados com essa indicação de qual é o próximo nó.
+- Duplamente Ligadas: a grande diferença das listas duplamente ligadas para as listas ligadas é que elas são bidirecionais. Não conseguimos "andar para trás" em listas ligadas, pois os nós de uma lista ligada sabem somente que é o proximo elemento.
+
