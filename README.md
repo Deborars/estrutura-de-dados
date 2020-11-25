@@ -25,4 +25,7 @@ Em uma estrutura de dados devemos saber como realizar um determinado conjunto de
 - Tabela Hash;
 - Grafos;
 
-_Vetores e Matrizes_:  São chamados também de arrays. O array é uma estrutura de dados que armazena um a mais valores, por exemplo sua sintaxe  em Javascript _let array = ["pera", "uva", "abacaxi", "caju"....]_. Para acessá-los, podemos realizar alguns métodos que percorrem o array ou até mesmo usando seu indice array[0] = "pera";
+__Vetores e Matrizes__:  São chamados também de arrays. O array é uma estrutura de dados que armazena um a mais valores, por exemplo sua sintaxe  em Javascript _let array = ["pera", "uva", "abacaxi", "caju"....]_. Para acessá-los, podemos realizar alguns métodos que percorrem o array ou até mesmo usando seu indice array[0] = "pera";
+
+__Registro__: É uma estrutura que fornece um formato especializado para armazenar informações em mémoria. Um registro é composto por campos que especificam cada uma das informações que o compõem.
+
