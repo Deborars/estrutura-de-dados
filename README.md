@@ -50,3 +50,5 @@ __Filas__: Esta estrutura admite remoção de elementos e inserção de novos su
 __Arvores__: É uma estrutura de dados que organiza seus elementos de forma hierarquica , onde existe um elemento que fica no topo da arvore, chamado raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas.
 
 __Tabela Hash__: Uma tabela hash, de dispersão ou espalhamento é uma estrutura de dados especial , que associa chaves de pesquisa a valores.
+
+__Grafos__: São estruturas que permitem programar a relação entre objetos.
