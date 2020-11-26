@@ -33,6 +33,15 @@ __Listas__: Armazena dados de um determinado tipo em uma ordem especifica.
 A diferença entre listas e arrays é que as listas possuem um tamanho ajustável, enquanto arrays possuem tamanho fixo.
 
 Existem dois tipos de listas:
-- Ligadas: neste tipo existem nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele: por isso ela é chamada de 'lista ligada', pois os nós são amarrados com essa indicação de qual é o próximo nó.
-- Duplamente Ligadas: a grande diferença das listas duplamente ligadas para as listas ligadas é que elas são bidirecionais. Não conseguimos "andar para trás" em listas ligadas, pois os nós de uma lista ligada sabem somente que é o proximo elemento.
+- _Ligadas_: neste tipo existem nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele: por isso ela é chamada de 'lista ligada', pois os nós são amarrados com essa indicação de qual é o próximo nó.
+- _Duplamente Ligadas_: a grande diferença das listas duplamente ligadas para as listas ligadas é que elas são bidirecionais. Não conseguimos "andar para trás" em listas ligadas, pois os nós de uma lista ligada sabem somente que é o proximo elemento.
+
+__Pilhas__: é uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenados. O acesso aos itens de uma pilha é restrito - somente um item pode ser lido ou removido por vez.
+
+Tipos de Pilhas: 
+- LIFO ou UEPS: o último que entra é o primeiro a sair;
+- FIFO ou PEPS; o primeiro que entra é o primeiro a sair
+
+![ueps](./ueps.jpg)
+![feps](./peps.jpg)
 
