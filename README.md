@@ -45,3 +45,6 @@ Tipos de Pilhas:
 ![ueps](./ueps.jpg)
 ![feps](./peps.jpg)
 
+__Filas__: Esta estrutura admite remoção de elementos e inserção de novos sujeita à seguinte regra de operação: o primeiro elemento que entrou e está há mais tempo será o primeiro a ser removido, segue o conceito PEPS.
+
+__Arvores__: É uma estrutura de dados que organiza seus elementos de forma hierarquica , onde existe um elemento que fica no topo da arvore, chamado raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas.
